@@ -1,4 +1,7 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 title: Flux Coordinator
 description: Automatisierte Lichtmessung mit  Indoor-Lokalisierungssystem
 repository: Flux-Coordinator/flux-coordinator.github.io
+remote_theme: chrisbobbe/jekyll-theme-prologue
+plugins:
+  - jekyll-remote-theme
