@@ -1,6 +1,6 @@
-# Homepage
+# Home
 
-Das ist die Homepage für das Flux Coordinator Projekt.
+Das ist die Homepage für das Flux Coordinator Projekt (Abk. **FLUX**). Das Ziel dieser Seite ist, die Informationen zentral zusammenzufassen.
 
 ## Projektteilnehmer
 
