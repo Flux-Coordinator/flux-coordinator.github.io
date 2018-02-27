@@ -6,10 +6,10 @@ Das ist die Homepage für das Flux Coordinator Projekt (Abk. **BA FLUX**). Das Z
 
 Das Projekt wird von folgenden Teilnehmern entwickelt:
 
+* Auftraggeber: Tobias Hofer
+* Betreuer: Prof. Dr. Farhad Mehta
 * Software Engineer: Esteban Luchsinger
 * Software Engineer: Patrick Scherler
-* Professor: Prof. Dr. Farhad Mehta
-* Auftraggeber: Tobias Hofer
 
 ## Dokumente
 
