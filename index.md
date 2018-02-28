@@ -15,7 +15,7 @@ Das Projekt wird von folgenden Teilnehmern entwickelt:
 
 * [Aufgabenstellung](/documents/Aufgabenstellung-2018-FS-BA-Kurzel-Scherler-Luchsinger_-_V0101_DE.pdf)
 * [Projektplan](/documents/Projektplan.pdf)
-* [Tasks im Projektmanagementsystem](http://jira.flux-coordinator.com/secure/RapidBoard.jspa?rapidView=1&view=detail)
+* [Tasks im Projektmanagementsystem](https://jira.flux-coordinator.com/secure/RapidBoard.jspa?rapidView=1&view=detail)
 * [Protokolle](/protocols)
 * ~~Aktuelle Abgabedokumente~~
 * [GitHub Organisation mit allen Repositories](https://github.com/orgs/Flux-Coordinator/)
