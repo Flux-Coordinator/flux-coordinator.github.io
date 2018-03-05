@@ -4,6 +4,7 @@ In den folgenden Punkten werden die Protokolle angezeigt. Alle Protokolle sind p
 
 ## Meetings mit dem Auftraggeber
 
+* [Meeting vom 02.03.2018](documents/protocols/kunde/Sitzungsprotokoll_2018-03-02.pdf)
 * [Meeting vom 23.02.2018](documents/protocols/kunde/Sitzungsprotokoll_2018-02-23.pdf)
 
 ## Meetings mit dem Betreuer
