@@ -18,9 +18,11 @@ Das Projekt wird von folgenden Teilnehmern entwickelt:
 * [Tasks im Projektmanagementsystem](http://jira.flux-coordinator.com/secure/RapidBoard.jspa?rapidView=1&view=detail)
 * [Protokolle](/protocols)
 * ~~Aktuelle Abgabedokumente~~
+* [Aktueller Bericht](https://1drv.ms/w/s!ArsW8RAUF-6oieJb4J9JkegM4WXVUg)
 * [GitHub Organisation mit allen Repositories](https://github.com/orgs/Flux-Coordinator/)
 * ~~Continuous Integration Reports~~
 * ~~Präsentationen~~
 
 ## Repositories
+
 Für das Flux Projekt wurden mehrere Repositories erstellt. Alle Repositories sind unter der Dachorganisation "Flux-Coordinator" erstellt worden.
