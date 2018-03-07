@@ -27,10 +27,10 @@ Die Funktionen, die die Anwendung unterstützen soll:
 | 7 | Messwerte filtern | Als Benutzer möchte ich in der Visualisierung einen Filter setzen können, um die Messwerte nach ihren Abständen zu gruppieren. | Benutzer |
 | 8 | Positionierungssystem konfigurieren | Als Vermesser möchte ich das Positionierungssystem über die Benutzerschnittstelle konfigurieren können, um die Messung schneller aufzusetzen. | Vermesser |
 | 9 | Lichtsensor kalibrieren | Als Vermesser möchte ich den Lichtsensor über die Benutzerschnittstelle kalibrieren können, um ungenaue Messungen zu vermeiden und korrekturen vorzunehmen. | Vermesser |
-| 10 | (Instrumente testen) | Als Vermesser möchte ich die Konfiguration und Kalibrierung der Sensoren vor Beginn der Messung testen können, um ungültige Messungen zu vermeiden. | Vermesser |
+| 10 | (Instrumente testen) | Als Vermesser möchte ich die Konfiguration und Kalibrierung der Sensoren vor Beginn der Messung testen können, um fehlerhafte Messungen zu vermeiden. | Vermesser |
 | 11 | Messung starten | Als Vermesser möchte ich eine Messung über die Benutzerschnittstelle starten können, damit die Messwerte aufgezeichnet werden. | Vermesser |
-| 12 | Messung abschliessen | Als Vermesser möchte ich eine laufende Messung über die Benutzerschnittstelle des Systems abschliessen können, um die Aufzeichnung weiterer Messwerte zu beenden. | Vermesser |
-| 13 | Messung fortfahren | Als Vermesser möchte ich eine bereits abgeschlossene Messung fortfahren können, um sie durch weitere Messwerte zu erweitern. | Vermesser |
+| 12 | Messung abschliessen | Als Vermesser möchte ich eine laufende Messung über die Benutzerschnittstelle abschliessen können, um die Aufzeichnung weiterer Messwerte zu beenden. | Vermesser |
+| 13 | Messung fortfahren | Als Vermesser möchte ich eine bereits abgeschlossene Messung über die Benutzerschnittstelle fortfahren können, um sie durch weitere Messwerte zu erweitern. | Vermesser |
 
 <div class="datatable-end"></div>
 
