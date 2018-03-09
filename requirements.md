@@ -37,13 +37,15 @@ Die Funktionen, die die Anwendung unterstützen soll:
 Das Formulieren der CRUD-Methoden (Create, Read, Update, Delete) wurde der Einfachheit halber weggelassen. Diese werden bei Bedarf implementiert.
 
 ## Nichtfunktionale Anforderungen
+
 Die folgenden nichtfunktionalen Anforderungen sind nach ISO 9126 gruppiert.
 
 | # | Anforderung | Kategorie |
 |---|-------------|-----------|
 | 1 | Sensoren lassen sich austauschen, ohne die Serverkomponente anpassen zu müssen. | Maintainability |
-| 2 | Ein Benutzer muss auf das User Interface zugreifen können, ohne zusätzliche Software installieren zu müssen. | Usability |
-| 3 | Die Messwerte müssen in mindestens 90% der Anfragen in weniger als 1 Sekunde in der Visualisierung angezeigt werden. | Efficiency |
-| 4 | Die Server-Komponente muss auf einer alternativen Platform, separiert von den Sensoren ausgeführt werden können. | Portability |
-| 5 | Die gespeicherten Daten des Systems müssen vor unbefugtem Zugriff geschützt werden. | Security |
-| 6 | Die aufgezeichneten Messwerte müssen unverändert persistiert werden. Eventuelle Faktoren oder Filter müssen zusätzlich zu den Rohdaten abgelegt werden. | Functionality |
+| 2 | Ein Benutzer muss auf das User Interface zugreifen können, ohne zusätzliche Software auf seinem Client Gerät installieren zu müssen. | Usability |
+| 3 | Die Messwerte müssen bei einer Round-Trip-Time von unter 25 ms in mindestens 90% der Anfragen in weniger als 1 Sekunde angezeigt werden. | Efficiency |
+| 4 | Die Server-Komponente muss auf einer von den Sensoren getrennten Platform ausgeführt werden können. | Portability |
+| 5 | Das User Interface soll auf den gängigen Plattformen (PC, Laptop, Tablet) verwendet werden können. | Portability |
+| 6 | Die Funktionalität des Systems muss vor nicht-authentifizierten Zugriffen geschützt sein. | Security |
+| 7 | Die aufgezeichneten Messwerte müssen unverändert persistiert werden. Eventuelle Faktoren oder Filter müssen zusätzlich zu den Rohdaten abgelegt werden. | Functionality |
