@@ -21,7 +21,7 @@ Das Projekt wird von folgenden Teilnehmern entwickelt:
 * [Anforderungen](/requirements)
 * [Aktueller Bericht](/documents/TechnischerBericht.pdf)
 * [GitHub Organisation mit allen Repositories](https://github.com/orgs/Flux-Coordinator/)
-* ~~Continuous Integration Reports~~
+* [Continuous Integration Reports](/continuous-integration)
 * ~~Präsentationen~~
 
 ## Repositories
