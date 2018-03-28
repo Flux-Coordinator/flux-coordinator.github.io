@@ -21,6 +21,7 @@ Das Projekt wird von folgenden Teilnehmern entwickelt:
 * [Aktueller Bericht](/documents/TechnischerBericht.pdf)
 * [GitHub Organisation mit allen Repositories](https://github.com/orgs/Flux-Coordinator/)
 * [Continuous Integration Reports](/continuous-integration)
+* [Mockups](https://balsamiq.cloud/sdkilcx/p510men)
 * ~~Präsentationen~~
 
 ## Repositories
