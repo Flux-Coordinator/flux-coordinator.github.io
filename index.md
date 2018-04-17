@@ -17,11 +17,10 @@ Das Projekt wird von folgenden Teilnehmern entwickelt:
 * [Projektplan](/documents/Projektplan.pdf)
 * [Tasks im Projektmanagementsystem](https://jira.flux-coordinator.com/secure/RapidBoard.jspa?rapidView=1&view=detail)
 * [Protokolle](/protocols)
-* [Anforderungen](/requirements)
 * [Aktueller Bericht](/documents/TechnischerBericht.pdf)
 * [GitHub Organisation mit allen Repositories](https://github.com/orgs/Flux-Coordinator/)
 * [Continuous Integration Reports](/continuous-integration)
-* ~~Präsentationen~~
+* [Präsentationen](/documents/Zwischenpraesentation.pdf)
 
 ## Repositories
 
