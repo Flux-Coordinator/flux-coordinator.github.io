@@ -22,7 +22,6 @@ Das Projekt wird von folgenden Teilnehmern entwickelt:
 * [Continuous Integration Reports](/continuous-integration)
 * [Präsentationen](/documents/Zwischenpraesentation.pdf)
 * [Mockups](https://balsamiq.cloud/sdkilcx/p510men)
-* [Beispiel Heatmap](/images/heatmap_example.png)
 
 ## Repositories
 
